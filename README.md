@@ -1,2 +1,2 @@
 # ebuilds
-Catalogue of the custom ebuilds for Gentoo (WIP).
+Catalogue of the custom ebuilds for Gentoo.
