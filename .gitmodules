@@ -6,7 +6,3 @@
 	path = acct-user/ccache
 	url = https://github.com/thaewrapt/acct-user-ccache.git
 
-[submodule "app-emulation/virtualbox"]
-	path = app-emulation/virtualbox
-	url = https://github.com/thaewrapt/app-emulation-virtualbox.git
-
