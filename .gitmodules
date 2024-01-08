@@ -1,8 +1,8 @@
 [submodule "acct-group/ccache"]
 	path = acct-group/ccache
-	url = https://github.com/thaewrapt/acct-group-ccache.git
+	url = https://github.com/thaewrapt/ebuild-acct-group-ccache.git
 
 [submodule "acct-user/ccache"]
 	path = acct-user/ccache
-	url = https://github.com/thaewrapt/acct-user-ccache.git
+	url = https://github.com/thaewrapt/ebuild-acct-user-ccache.git
 
